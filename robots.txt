@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-84f96f31da.ehmmgwa.cn/sitemap.xml
